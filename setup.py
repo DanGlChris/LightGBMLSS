@@ -21,7 +21,7 @@ setup(
         "pyro-ppl~=1.8.6",
         "optuna~=3.5.0",
         "properscoring~=0.1",
-        "scikit-learn~=1.4.0",
+        "scikit-learn=1.4.0",
         "numpy~=1.26.3",
         "pandas~=2.1.4",
         "plotnine~=0.12.4",
